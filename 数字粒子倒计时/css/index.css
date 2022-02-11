@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'Microsoft Yahei';
+	font-style: normal;
+	font-weight: 900;
+
+}
+
+body {
+	background-color: #24282f;
+	margin: 0;
+	padding: 0;
+}
+
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#canvas-number {
+	width: 680px;
+	height: 420px;
+}
